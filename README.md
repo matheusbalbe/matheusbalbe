@@ -1,5 +1,5 @@
 ### Olá, eu sou o Matheus Balbe 👋
-Apaixonado por tecnologia e pela sua capacidade de facilitar e melhorar a vida das pessoas.
+Apaixonado por tecnologia pela sua capacidade de facilitar e melhorar a vida das pessoas.
 
 ### 🛠️Tecnologias mais usadas:
 

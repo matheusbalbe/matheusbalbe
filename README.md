@@ -11,4 +11,5 @@ Apaixonado por tecnologia e pela sua capacidade de facilitar e melhorar a vida d
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 Linguagens mais usadas:
+
 ![Matheus Balbe most used](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbalbe&hide_progress=false&theme=radical)

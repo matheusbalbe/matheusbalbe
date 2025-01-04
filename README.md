@@ -9,7 +9,7 @@ Apaixonado por tecnologia pela sua capacidade de facilitar e melhorar a vida das
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![R](https://img.shields.io/github/r-package/v/:user/:repo)
+![Node LTS](https://img.shields.io/node/v-lts/:packageName)
 
 
 Linguagens mais usadas:
